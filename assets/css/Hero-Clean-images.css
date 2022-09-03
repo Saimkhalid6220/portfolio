@@ -1,0 +1,8 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+.text-bg-warning.hover {
+  background-color: transparent !important;
+}
+

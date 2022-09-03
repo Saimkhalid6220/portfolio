@@ -1,0 +1,9 @@
+.text-bg-warning.hover:hover {
+  background-color: var(--bs-warning) !important;
+}
+
+.text-bg-warning.hover {
+  background-color: transparent !important;
+  transition: 0.8s;
+}
+
